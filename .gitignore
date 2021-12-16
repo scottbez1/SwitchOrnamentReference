@@ -1,0 +1,20 @@
+.pio
+.pioenvs
+.piolibdeps
+.vscode/.browse.c_cpp.db*
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/settings.json
+
+# KiCAD files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.sch-bak
+*.net
+*.dsn
+fp-info-cache
+
+src/boot_gif.h
+secrets.h
